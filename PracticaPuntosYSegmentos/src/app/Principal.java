@@ -16,6 +16,9 @@ public class Principal {
 		int distancia1=s1.distancia();
 		int distancia2=s2.distancia();
 		
+		
+		
+		
 	}
 
 }
